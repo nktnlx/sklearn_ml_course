@@ -8,7 +8,7 @@ This course is an in-depth introduction to predictive modeling with scikit-learn
     - Tabular data exploration
     - Fitting scikit-learn model on numerical data
     - Handling categorical data
-* Module 2. Selecting the best model
+* Module 2. Selecting the best model \[[lectures](https://github.com/nktnlx/sklearn_ml_course/tree/main/module_2/lectures) | [solutions](https://github.com/nktnlx/sklearn_ml_course/tree/main/module_2/my_solutions)\]
     - Overfitting and underfitting 
     - Validation and learning curves
     - Bias versus variance trade-off
