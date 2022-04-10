@@ -12,7 +12,7 @@ This course is an in-depth introduction to predictive modeling with scikit-learn
     - Overfitting and underfitting 
     - Validation and learning curves
     - Bias versus variance trade-off
-* Module 3. Hyperparameters tuning
+* Module 3. Hyperparameters tuning \[[lectures](https://github.com/nktnlx/sklearn_ml_course/tree/main/module_3/lectures) | [solutions](https://github.com/nktnlx/sklearn_ml_course/tree/main/module_3/my_solutions)\]
     - Manual tuning
     - Automated tuning
 * Module 4. Linear models
