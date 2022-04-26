@@ -1,4 +1,4 @@
-# Module 3 -- Linear Models
+# Module 4 -- Linear Models
 
 ## Wrap-up
 * smth;

@@ -15,7 +15,7 @@ This course is an in-depth introduction to predictive modeling with scikit-learn
 * Module 3. Hyperparameters tuning \[[lectures](https://github.com/nktnlx/sklearn_ml_course/tree/main/module_3/lectures) | [solutions](https://github.com/nktnlx/sklearn_ml_course/tree/main/module_3/my_solutions)\]
     - Manual tuning
     - Automated tuning
-* Module 4. Linear models
+* Module 4. Linear models \[[lectures](https://github.com/nktnlx/sklearn_ml_course/tree/main/module_4/lectures) | [solutions](https://github.com/nktnlx/sklearn_ml_course/tree/main/module_4/my_solutions)\]
     - Intuitions on linear models
     - Linear regressions
     - Modelling with a non-linear relationship data-target
