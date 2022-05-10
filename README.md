@@ -21,7 +21,7 @@ This course is an in-depth introduction to predictive modeling with scikit-learn
     - Modelling with a non-linear relationship data-target
     - Regularization in linear model
     - Linear model for classification
-* Module 5. Decision tree models 
+* Module 5. Decision tree models \[[lectures](https://github.com/nktnlx/sklearn_ml_course/tree/main/module_5/lectures) | [solutions](https://github.com/nktnlx/sklearn_ml_course/tree/main/module_5/my_solutions)\] 
     - Intuitions on tree-based models
     - Decision tree in classification
     - Decision tree in regression
