@@ -1,21 +1,20 @@
-# Module 4 -- Linear Models
+# Module 5 -- Decision Tree Models
 
 ## Wrap-up
-* the predictions of a linear model depend on a weighted sum of the values of the input features added to an intercept parameter;
+Decision tree models:
+* are suited for both regression and classification problems;
 
-* fitting a linear model consists in adjusting both the weight coefficients and the intercept to minimize the prediction errors on the training set;
+* are non-parametric models;
 
-* to train linear models successfully it is often required to scale the input features approximately to the same dynamic range;
+* are not able to extrapolate;
 
-* regularization can be used to reduce over-fitting: weight coefficients are constrained to stay small when fitting;
-
-* the regularization hyperparameter needs to be fine-tuned by cross-validation for each new machine learning problem and dataset;
-
-* linear models can be used on problems where the target variable is not linearly related to the input features but this requires extra feature engineering work to transform the data in order to avoid under-fitting.
+* are sensitive to hyperparameter tuning.
 
 ## To go further
-* [Example of linear regression](https://scikit-learn.org/stable/auto_examples/linear_model/plot_ols.html#sphx-glr-auto-examples-linear-model-plot-ols-py)
+* [Example of decision tree regressor](https://scikit-learn.org/stable/auto_examples/tree/plot_tree_regression.html#sphx-glr-auto-examples-tree-plot-tree-regression-py)
 
-* [Comparison between a linear regression and a ridge regressor](https://scikit-learn.org/stable/auto_examples/linear_model/plot_ols_ridge_variance.html#sphx-glr-auto-examples-linear-model-plot-ols-ridge-variance-py)
+* [Example of decision tree classifier](https://scikit-learn.org/stable/auto_examples/tree/plot_iris_dtc.html#sphx-glr-auto-examples-tree-plot-iris-dtc-py)
 
-If you want to use DecisionBoundaryDisplay localy you have to copy this folder to your machine: https://github.com/INRIA/scikit-learn-mooc/tree/main/python_scripts/helpers
+* [Understanding the tree structure in scikit-learn](https://scikit-learn.org/stable/auto_examples/tree/plot_unveil_tree_structure.html#sphx-glr-auto-examples-tree-plot-unveil-tree-structure-py)
+
+* [Post-pruning decision trees](https://scikit-learn.org/stable/auto_examples/tree/plot_cost_complexity_pruning.html#sphx-glr-auto-examples-tree-plot-cost-complexity-pruning-py)
