@@ -26,7 +26,7 @@ This course is an in-depth introduction to predictive modeling with scikit-learn
     - Decision tree in classification
     - Decision tree in regression
     - Hyperparameters of decision tree
-* Module 6. Ensemble of models
+* Module 6. Ensemble of models \[[lectures](https://github.com/nktnlx/sklearn_ml_course/tree/main/module_6/lectures) | [solutions](https://github.com/nktnlx/sklearn_ml_course/tree/main/module_6/my_solutions)\] 
     - Ensemble method using bootstrapping
     - Ensemble based on boosting
     - Hyperparameters tuning with ensemble methods
