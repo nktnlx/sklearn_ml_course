@@ -30,7 +30,7 @@ This course is an in-depth introduction to predictive modeling with scikit-learn
     - Ensemble method using bootstrapping
     - Ensemble based on boosting
     - Hyperparameters tuning with ensemble methods
-* Module 7. Evaluating model performance
+* Module 7. Evaluating model performance \[[lectures](https://github.com/nktnlx/sklearn_ml_course/tree/main/module_7/lectures) | [solutions](https://github.com/nktnlx/sklearn_ml_course/tree/main/module_7/my_solutions)\]
     - Comparing a model with simple baselines
     - Choice of cross-validation
     - Nested cross-validation
